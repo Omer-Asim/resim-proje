@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+.deneme12{
+
+  height: 3rem;
+  width: 12rem;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+
+
+
+}
+.denemee{
+  margin-right: 40%;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  padding:1%;
+
+}
+.col-lg-3{
+  padding:0;
+}
+.footer{
+  background-color:#f2cc8f;
+  padding: 2% 0;
+}
+.float-right{
+  float: right;
+}
+.renkler{
+  color: white;
+}
